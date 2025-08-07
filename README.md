@@ -101,6 +101,11 @@ The frontend will run on `http://localhost:5173` and backend on `http://localhos
 
 ## 📽️ Demo
 > A video walkthrough or screen recording can be added here (if available)
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="./Subham Pani.gif" alt="Demo GIF" />
+</p>
 
 ---
 
